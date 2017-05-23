@@ -3,67 +3,122 @@ h1 {
   text-align: center;
 }
 
-/*#map {
-  position: relative;
-}*/
+
 .animals img{
   height: 80px;
-  width: 80px;
-  border-radius: 50px;
-
+  width: 120px;
+  border-bottom: black solid 2px;
 }
-#bongo {
+
+.main {
   position: relative;
+}
+.bongo{
+  width: 120px;
+  height: 160px;
+  text-align: center;
+  display: block;
+  border: 2px solid black;
+  position: absolute;
+  bottom: 300px;
+  left: 920px;
+}
+.bear{
+  width: 120px;
+  height: 160px;
+  text-align: center;
+  display: block;
+  border: 2px solid black;
+  position: absolute;
   bottom: 500px;
-  left: 950px;
+  left:300px;
 }
-#lemur {
-  position: relative;
-  bottom: 350px;
-  left: 650px;
+.bushdog{
+  width: 120px;
+  height: 160px;
+  text-align: center;
+  display: block;
+  border: 2px solid black;
+  position: absolute;
+  bottom: 300px;
+  left:550px;
 }
-#leopard {
-  position: relative;
-  bottom: 650px;
-  left: 400px;
+.lemur{
+  width: 120px;
+  height: 160px;
+  text-align: center;
+  display: block;
+  border: 2px solid black;
+  position: absolute;
+  bottom: 200px;
+  left:1100px;
 }
-#lion {
-  position: relative;
-  bottom: 700px;
-  left: 700px;
+.leopard{
+  width: 120px;
+  height: 160px;
+  text-align: center;
+  display: block;
+  border: 2px solid black;
+  position: absolute;
+  bottom: 500px;
+  left:850px;
 }
-#beluga {
-  position: relative;
+.lion{
+  width: 120px;
+  height: 160px;
+  text-align: center;
+  display: block;
+  border: 2px solid black;
+  position: absolute;
+  bottom: 550px;
+  left:1300px;
+}
+.beluga{
+  width: 120px;
+  height: 160px;
+  text-align: center;
+  display: block;
+  border: 2px solid black;
+  position: absolute;
+  bottom:10px;
+  left:1300px;
+}
+.dibbler{
+  width: 120px;
+  height: 160px;
+  text-align: center;
+  display: block;
+  border: 2px solid black;
+  position: absolute;
   bottom: 100px;
-  left: 500px;
+  left: 1450px;
 }
-#dibbler {
-  position: relative;
-  bottom: 325px;
-  left: 1125px;
-}
-#whale {
-  position: relative;
-  bottom: 150px;
-  left: 500px;
-}
-#seal {
-  position: relative;
-  bottom: 800px;
-  left: 200px;
-}
-#bear {
-  position: relative;
-  bottom: 600px;
-  left: 250px;
-}
-#bushdog {
-  position: relative;
-  bottom: 400px;
+.whale{
+  width: 120px;
+  height: 160px;
+  text-align: center;
+  display: block;
+  border: 2px solid black;
+  position: absolute;
+  bottom: 50px;
   left: 300px;
-  }
-
-
-.map {
-  position: relative;
+}
+.seal{
+  width: 120px;
+  height: 160px;
+  text-align: center;
+  display: block;
+  border: 2px solid black;
+  position: absolute;
+  bottom: 700px;
+  left: 850px;
+}
+p {
+  line-height: 2px;
+}
+.science {
+  font-size: 12px;
+}
+.names {
+  font-weight: bold;
 }
