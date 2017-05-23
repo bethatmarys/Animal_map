@@ -1,0 +1,69 @@
+h1 {
+  font-size: 100px;
+  text-align: center;
+}
+
+/*#map {
+  position: relative;
+}*/
+.animals img{
+  height: 80px;
+  width: 80px;
+  border-radius: 50px;
+
+}
+#bongo {
+  position: relative;
+  bottom: 500px;
+  left: 950px;
+}
+#lemur {
+  position: relative;
+  bottom: 350px;
+  left: 650px;
+}
+#leopard {
+  position: relative;
+  bottom: 650px;
+  left: 400px;
+}
+#lion {
+  position: relative;
+  bottom: 700px;
+  left: 700px;
+}
+#beluga {
+  position: relative;
+  bottom: 100px;
+  left: 500px;
+}
+#dibbler {
+  position: relative;
+  bottom: 325px;
+  left: 1125px;
+}
+#whale {
+  position: relative;
+  bottom: 150px;
+  left: 500px;
+}
+#seal {
+  position: relative;
+  bottom: 800px;
+  left: 200px;
+}
+#bear {
+  position: relative;
+  bottom: 600px;
+  left: 250px;
+}
+#bushdog {
+  position: relative;
+  bottom: 400px;
+  left: 300px;
+  }
+
+
+.map {
+  position: relative;
+}
